@@ -12,5 +12,5 @@
 *  The marketing and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviors differ.
 
 ## Data set
-This project was fabricated by CareerFoundry, using a number of open-source data sets from Instacart. I received 4 different data set that were combined to answer the project's demands. The population flow can be checked below. 
+This project was fabricated by CareerFoundry, using a number of open-source data sets from Instacart. I received 4 different data sets that were combined to answer the project's demands. The population flow can be checked below. 
 ![poppulation_flow](https://github.com/user-attachments/assets/fc86304a-d994-4bc7-a994-9730b5661bc9)
